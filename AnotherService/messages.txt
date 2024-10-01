@@ -1,0 +1,3 @@
+KafkaMessage { Text = qwe }
+BrokersModels.KafkaMessage
+BrokersModels.KafkaMessage

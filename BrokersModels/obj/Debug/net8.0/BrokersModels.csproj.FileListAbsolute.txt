@@ -1,0 +1,11 @@
+C:\MyProjects\MicrosrvicesTest\BrokersModels\bin\Debug\net8.0\BrokersModels.deps.json
+C:\MyProjects\MicrosrvicesTest\BrokersModels\bin\Debug\net8.0\BrokersModels.dll
+C:\MyProjects\MicrosrvicesTest\BrokersModels\bin\Debug\net8.0\BrokersModels.pdb
+C:\MyProjects\MicrosrvicesTest\BrokersModels\obj\Debug\net8.0\BrokersModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\MicrosrvicesTest\BrokersModels\obj\Debug\net8.0\BrokersModels.AssemblyInfoInputs.cache
+C:\MyProjects\MicrosrvicesTest\BrokersModels\obj\Debug\net8.0\BrokersModels.AssemblyInfo.cs
+C:\MyProjects\MicrosrvicesTest\BrokersModels\obj\Debug\net8.0\BrokersModels.csproj.CoreCompileInputs.cache
+C:\MyProjects\MicrosrvicesTest\BrokersModels\obj\Debug\net8.0\BrokersModels.dll
+C:\MyProjects\MicrosrvicesTest\BrokersModels\obj\Debug\net8.0\refint\BrokersModels.dll
+C:\MyProjects\MicrosrvicesTest\BrokersModels\obj\Debug\net8.0\BrokersModels.pdb
+C:\MyProjects\MicrosrvicesTest\BrokersModels\obj\Debug\net8.0\ref\BrokersModels.dll
